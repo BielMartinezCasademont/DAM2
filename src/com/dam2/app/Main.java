@@ -1,4 +1,5 @@
 package com.dam2.app;
+import java.util.Scanner;
 
 import com.dam2.controller.ProfessorController;
 import com.dam2.controller.ModulController;

@@ -1,4 +1,5 @@
 package com.dam2.model;
+import java.util.Scanner;
 
 public class ModulProfessional {
     private int id;

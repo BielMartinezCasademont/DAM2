@@ -5,6 +5,7 @@ import com.dam2.model.Professor;
 
 import java.util.List;
 import java.util.Scanner;
+import java.util.Scanner;
 
 public class ProfessorController {
     private final ProfessorDAO dao = new ProfessorDAO();

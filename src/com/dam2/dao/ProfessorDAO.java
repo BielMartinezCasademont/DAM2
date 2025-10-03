@@ -1,4 +1,5 @@
 package com.dam2.dao;
+import java.util.Scanner;
 
 import com.dam2.model.Professor;
 import com.dam2.util.DBConnection;
